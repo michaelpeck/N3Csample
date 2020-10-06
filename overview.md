@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Overview
+title: Data Access
 permalink: /overview/
 has_children: true
 ---
 
-This is the Overview page.
+Data Use Request
+In order to get access to the N3C data investigators need to submit an online application called a Data Use Request or DUR.
+This guide outlines the steps for an investigator to submit a DUR for a new project or submit a DUR to join and existing project.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Overview of the Data User Request (DUR) Process
+1.     Investigator submits a Data Use Request.
+2.     Data Access Committee (DAC) Reviews and Approves the research project
+3.     Investigators are given access to the analytics workbench
 
 
-[jekyll-organization]: https://github.com/jekyll
+First Time Users
+
+
+Returning Users

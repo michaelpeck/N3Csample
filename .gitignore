@@ -1,4 +1,7 @@
 _site/
+vendor/
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+Gemfile
+_config.yml
